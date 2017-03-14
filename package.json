@@ -1,15 +1,17 @@
 {
-  "name": "ui-test-using-selenium-with-nodejs",
+  "name": "browser-automation-using-selenium-and-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "hammadtariq65@gmail.com",
+  "keywords": [
+    "selenium","browser","automation","node","jasmine","user","interface","ui","testing","webdriver"
+  ],
   "license": "ISC",
   "dependencies": {
-    "jasmine": "^2.5.3",
     "selenium-webdriver": "^3.3.0"
   },
   "devDependencies": {
