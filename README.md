@@ -8,3 +8,7 @@
 4) npm install
 5) To initialize specs structure run "jasmine init"
 6) To run tests run "jasmine" or "jasmine spec\integration-test.spec.js"
+
+# Article followed
+
+http://www.techinsight.io/review/devops-and-automation/browser-automation-using-selenium-webdriver-and-nodejs/
